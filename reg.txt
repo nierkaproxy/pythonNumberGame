@@ -1,0 +1,9 @@
+Vartotojas ivede skaiciu: 100
+Sugeneruotas atsitiktinis skaicius: 30
+1 spejimu vartotojas ivede 23. Atsakymas – sugeneruotas skaicius didesnis
+2 spejimu vartotojas ivede 34. Atsakymas – sugeneruotas skaicius mazesnis
+3 spejimu vartotojas ivede 56. Atsakymas – sugeneruotas skaicius mazesnis
+4 spejimu vartotojas ivede 45. Atsakymas – sugeneruotas skaicius mazesnis
+5 spejimu vartotojas ivede 32. Atsakymas – sugeneruotas skaicius mazesnis
+6 spejimu vartotojas ivede 12. Atsakymas – sugeneruotas skaicius didesnis
+7 spejimu vartotojas ivede 23. Atsakymas – sugeneruotas skaicius didesnis
